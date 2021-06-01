@@ -1,0 +1,62 @@
+@media (min-width: 0) and (max-width: 446.9px){
+.container{
+	width: 100%;
+}
+.container .first{
+	width: 100%;
+}
+nav{
+	width: 100%;
+	font-size: 20px;
+	margin-left: 10%;
+	display: flex;
+}
+nav ul li a{
+
+	
+}
+nav ul{
+	flex-direction: column;
+	display: flex;
+	width: 60%;
+	position: relative;
+}
+@media (min-width: 447px) and (max-width: 768.9px){
+
+.container{
+	width: 100%;
+}
+.container .first{
+	width: 100%;
+}
+}
+
+@media (min-width: 769px) and (max-width: 989.9px){
+
+.container{
+	width: 100%;
+}
+.container .first{
+	width: 100%;
+}
+}
+
+@media (min-width: 990px) and (max-width: 1199.9px){
+
+.container{
+	width: 100%;
+}
+.container .first{
+	width: 100%;
+}
+}
+
+@media (min-width: 1200px) and (max-width: 1399.9px){
+
+.container{
+	width: 100%;
+}
+.container .first{
+	width: 100%;
+}
+}
